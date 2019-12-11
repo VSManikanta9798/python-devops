@@ -1,7 +1,7 @@
 import boto3
 
-ACCESS_KEY = 'AKIAQED72P2QPAMQ4CFW'
-SECRET_KEY = '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'
+ACCESS_KEY = ''
+SECRET_KEY = ''
 AUTO_SCALLING_GROUP = 'Hayes-Test-ASG'
 LC = 'LC-Large'
 
